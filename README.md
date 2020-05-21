@@ -5,3 +5,7 @@ With the new version of the Windows Terminal, Microsoft changed the default Powe
 My settings aim to bring the "Powershell Noble Blue" scheme back along with a scheme for "Ubuntu".
 The settings also include settings which makes the terminal look stunning with a blurred transparent background.
 Everything has been documented for ease of readablitiy.
+
+![](images/WinTerminalCmd.png)
+![](images/WinTerminalPowershell.png)
+![](images/WinTerminalUbuntu.png)
