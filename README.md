@@ -7,5 +7,5 @@ The settings also include settings which makes the terminal look stunning with a
 Everything has been documented for ease of readablitiy.
 
 ![](images/WinTerminalCmd.png)
-![](images/WinTerminalPowershell.png)
 ![](images/WinTerminalUbuntu.png)
+![](images/WinTerminalPowershell.png)
